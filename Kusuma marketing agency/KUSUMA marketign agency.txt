@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kusuma Marketing Agency</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #4b6cb7;
+      background: linear-gradient(to right, #182848, #4b6cb7);
+      color: white;
+      padding: 20px 0;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .clients {
+      background: white;
+      margin: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 15px;
+    }
+    footer {
+      background: #182848;
+      color: white;
+      padding: 15px;
+    }
+    a.button {
+      display: inline-block;
+      background: #25d366;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    a.button:hover {
+      background: #1ebc57;
+    }
+  </style>
+</head>
+<body>
+
+  <header>Kusuma Marketing Agency</header>
+
+  <section>
+    <h2>About Kusuma</h2>
+    <p>Hello! I’m <strong>KUSUMA</strong> — a marketing professional passionate about helping businesses grow and connect with the right audience.</p>
+  </section>
+
+  <section>
+    <h2>Our Clients</h2>
+    <div class="clients">
+      <p><strong>1. ABC Builders</strong> - Bengaluru</p>
+      <p><strong>2. GreenLeaf Interiors</strong> - Mysuru</p>
+      <p><strong>3. Bright Vision Tech</strong> - Mangalore</p>
+      <p><i>Add more clients as you grow!</i></p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact Details</h2>
+    <p>📞 <a href="tel:8861201974">+91 88612 01974</a></p>
+    <p>✉️ <a href="mailto:kusumasumedh@gmail.com">kusumasumedh@gmail.com</a></p>
+    <a href="https://wa.me/918861201974" class="button" target="_blank">💬 Chat on WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Kusuma Marketing Agency | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
